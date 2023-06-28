@@ -1,36 +1,24 @@
-Contributing Guidelines
-Thank you for considering contributing to our project! We appreciate your interest and welcome any contributions that can help improve our project.
+Create a CONTRIBUTING file:
 
-To contribute, please follow these guidelines:
+In your local repository directory, create a new file named "CONTRIBUTING" without any file extension. You can use a text editor or any other suitable tool for this.
+Inside the file, provide guidelines for contributors. You can include information about how to contribute, coding conventions, branch naming conventions, pull request guidelines, and any other relevant information.
+Add the CONTRIBUTING file to your repository:
 
-Reporting Issues
-If you encounter any issues or bugs in the project, please open an issue on the GitHub repository. Make sure to include the following details when reporting an issue:
+Go to your GitHub repository page.
+Click on the "Add file" button and select "Upload files" from the drop-down menu.
+Choose the CONTRIBUTING file you created in the previous step and upload it to your repository.
+Update the README file with a link to the CONTRIBUTING file:
 
-A clear and descriptive title
-A detailed description of the issue, including steps to reproduce it
-Any relevant error messages or screenshots
-Suggesting Enhancements
-If you have ideas or suggestions for enhancing the project, we'd love to hear them! You can submit your suggestions by opening an issue on the GitHub repository. Please provide the following information when making a suggestion:
+Open the README.md file in your repository.
+Edit the README file using a text editor or the GitHub web interface.
+Add a section or a subsection in the README file that provides a brief overview of the contribution guidelines.
+Include a link to the CONTRIBUTING file. You can use the following Markdown syntax: [Contribution Guidelines](CONTRIBUTING). Make sure the link matches the filename and extension of your CONTRIBUTING file.
+Commit and push the changes:
 
-A clear and concise description of the enhancement
-Any relevant details or examples that can help us understand your suggestion better
-Pull Requests
-We welcome pull requests that address bugs or implement new features. To submit a pull request:
+Once you have made the necessary changes to the README file, commit your changes with an appropriate commit message.
+Push the changes to your GitHub repository.
+Verify the changes:
 
-Fork the repository and create a new branch for your contribution.
-Make your changes and ensure that the project builds successfully.
-Write clear and concise commit messages for your changes.
-Open a pull request, describing the changes you made and the problem it addresses.
-Please note that all contributions will be reviewed before being merged into the main project. We appreciate your patience during the review process.
-
-Code Style
-To maintain consistency throughout the project, we follow a specific code style. Please ensure that your code adheres to this style before submitting a pull request. You can find the code style guidelines in the codeofconduct.md file.
-
-Code of Conduct
-We expect all contributors to abide by our Code of Conduct. Please make sure to review and understand the code of conduct before participating in this project.
-
-By contributing to this project, you agree to comply with the code of conduct and uphold a respectful and inclusive environment for everyone involved.
-
-If you have any questions or need further clarification, please feel free to reach out to the project maintainers.
-
-Thank you for your contributions and support!
+Go to your GitHub repository page and navigate to the README file.
+Click on the link you added for the contribution guidelines. It should redirect you to the CONTRIBUTING file, displaying the contribution guidelines you specified.
+By following these steps, you will have successfully added contribution guidelines and a link to the CONTRIBUTING file in your GitHub repository's README file.
